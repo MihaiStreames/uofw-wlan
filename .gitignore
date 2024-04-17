@@ -12,6 +12,9 @@ exports.c
 
 ## Ignore Visual Studio project files, Visual Studio temporary files, build results.
 
+# JetBrains folders
+.idea
+
 # Visual Studio project files
 *.sln
 
